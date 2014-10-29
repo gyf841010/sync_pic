@@ -1,0 +1,17 @@
+#wt151配置：
+simpic_write_db: "58.22.101.151"
+simpic_read_db: "203.195.161.170"
+qqq_write_db: "203.195.184.191"
+qqq_read_db: "203.195.184.191"
+other_pic_center: "203.195.151.34"
+mem_cache: "203.195.151.34:11211"
+email: "258257921@qq.com"
+
+#tx-pic配置
+#simpic_write_db: "58.22.101.151"
+#simpic_read_db: "10.143.86.168"
+#qqq_write_db: "10.221.12.207"
+#qqq_read_db: "10.221.136.178"
+#other_pic_center: "58.22.101.151"
+#mem_cache: "localhost:11211"
+#email: "258257921@qq.com"
